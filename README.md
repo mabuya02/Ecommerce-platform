@@ -88,4 +88,4 @@ We welcome contributions from the community. If you'd like to contribute to this
 This project is licensed under the [MIT License](LICENSE). You are free to modify and distribute the code as per the terms of the license.
 
 Happy shopping with our E-commerce website built in Laravel!
-```
+
